@@ -1,10 +1,10 @@
 ---
 title: Welcome to my Blog!
-date: "2018-07-01"
+date: "2022-07-14"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to my blog, <!--I hope you enjoy your stay!--> I built this blog by using GatsbyJS and Netlify that deploys directly from a Github repo, it also uses ReactJS. Content is currently work in progress. Soon you'll be seeing my recent and past articles/tutorials in this blog and maybe some couple of tips and tricks that might help you, if you want to build a blog like this. Stay tuned!'.
+Welcome to my blog, <!--I hope you enjoy your stay!--> I built this blog by using GatsbyJS and Netlify that deploys directly from the Github repo, it also uses ReactJS. Content is currently work in progress. Soon you'll be seeing my recent and past articles/tutorials in this blog and maybe some couple of tips and tricks that might help you, if you want to build a blog like this. Stay tuned!'.
 
 <!-- end -->
 
