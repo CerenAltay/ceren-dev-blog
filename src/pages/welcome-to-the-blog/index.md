@@ -1,14 +1,14 @@
 ---
 title: Welcome to my Blog!
-date: "2022-07-14"
-featuredImage: './featured.jpg'
+date: "2023-03-13"
+featuredImage: './indexpicture.jpg'
 ---
 
-Welcome to my blog, <!--I hope you enjoy your stay!--> I built this blog by using GatsbyJS and Netlify that deploys directly from the Github repo, it also uses ReactJS. Content is currently work in progress. Soon you'll be seeing my recent and past articles/tutorials in this blog and maybe some couple of tips and tricks that might help you, if you want to build a blog like this. Stay tuned!'.
+Welcome to my blog, <!--I hope you enjoy your stay!--> I built this blog by using GatsbyJS and Netlify that deploys directly from the Github repo, it also uses ReactJS. Soon you'll be seeing my recent articles/tutorials and maybe some couple of tips and tricks that might help you if you want to build a blog like this. Stay tuned!
 
 <!-- end -->
 
-## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+<!-- ## Lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
 
@@ -49,14 +49,9 @@ Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor h
 
 Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
 
-```javascript
-$(document).ready(function() {
-    console.log('More jQuery, wow!')
-})
-```
 
 ###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
 
 Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
 
-Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum.
+Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum. -->

@@ -21,8 +21,8 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background: #f9fafc;
-    font-family: 'Open Sans', sans-serif; 
-    line-height: 1.5;
+    font-family: 'Roboto', sans-serif; 
+    line-height: 1.6;
     padding: 50px 0;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;

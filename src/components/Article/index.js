@@ -3,7 +3,7 @@ import userConfig from '../../../config';
 
 const Article = styled.article`
   color: #65738c;
-  font-size: 16px;
+  font-size: 17px;
 
   a {
     color: ${userConfig.primaryColor};
@@ -33,7 +33,7 @@ const Article = styled.article`
 
   h3 {
     color: #3e465b;
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 700;
     line-height: 1.5;
     margin: 25px 50px 15px;
@@ -57,6 +57,7 @@ const Article = styled.article`
   p {
     line-height: 1.7;
     margin: 15px 50px;
+    text-align: justify;
   }
 
   blockquote {
