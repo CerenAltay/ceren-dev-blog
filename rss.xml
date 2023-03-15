@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Dev Blog]]></title><description><![CDATA[Full stack C# .Net Developer]]></description><link>https://github.com/CerenAltay/cerendevblog</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 Mar 2023 12:48:33 GMT</lastBuildDate><item><title><![CDATA[Welcome to my Blog!]]></title><description><![CDATA[Welcome to my blog,  I built this blog by using GatsbyJS and Netlify that deploys directly from the Github repo, it also uses ReactJS. Soon you’ll be seeing my recent articles/tutorials and maybe some couple of tips and tricks that might help you if you want to build a blog like this. Stay tuned!]]></description><link>https://github.com/CerenAltay/cerendevblog/welcome-to-the-blog/</link><guid isPermaLink="false">https://github.com/CerenAltay/cerendevblog/welcome-to-the-blog/</guid><pubDate>Mon, 13 Mar 2023 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Welcome to my blog, &lt;!--I hope you enjoy your stay!--&gt; I built this blog by using GatsbyJS and Netlify that deploys directly from the Github repo, it also uses ReactJS. Soon you’ll be seeing my recent articles/tutorials and maybe some couple of tips and tricks that might help you if you want to build a blog like this. Stay tuned!&lt;/p&gt;
+&lt;!-- end --&gt;
+&lt;!-- ## Lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+Sed urna justo, scelerisque consectetur pharetra vitae, facilisis vel diam. Maecenas auctor enim a volutpat mattis. Morbi sit amet turpis a purus ornare pellentesque sit amet et ipsum. Suspendisse imperdiet mi at felis aliquet, nec consectetur arcu dignissim. Sed vitae diam maximus, maximus diam ac, scelerisque mi.
+
+*   Morbi sit amet turpis a purus
+*   Etiam tempor ultricies mi
+    *   Maecenas auctor enim a volutpat mattis
+*   Sed urna justo, scelerisque consectetur pharetra vitae
+
+Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+
+### Pellentesque consectetur facilisis venenatis
+
+Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus [elementum dapibus nibh](https://google.com), eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
+
+&gt; Quisque tempor nulla turpis, ut placerat arcu lobortis nec. Aenean sed vehicula nisi. Nullam vitae placerat enim. Etiam hendrerit enim vel tempor fermentum. Morbi rutrum euismod ipsum a luctus.
+
+Morbi et libero id metus tempor imperdiet eget non mi. Mauris pulvinar quis enim at placerat. Vestibulum vitae dapibus lectus, ut elementum est.
+
+### Pellentesque facilisis venenatis mi, sit amet molestie nisl ornare et
+
+Morbi posuere facilisis eros vel euismod. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Etiam malesuada dapibus dolor non cursus. Sed in turpis justo. Cras sed hendrerit nulla. Sed ornare, leo et suscipit tincidunt, justo diam sollicitudin risus, vitae vulputate nulla augue et lacus.
+
+1.  Morbi posuere facilisis
+2.  Pellentesque habitant morbi tristique
+3.  Etiam malesuada dapibus
+
+Ut vel ligula ante. Proin quis metus magna. Nulla nec dui vulputate, semper orci in, sagittis dolor. Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam.
+
+#### Sed ac orci a dolor venenatis vulputate
+
+Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
+
+![Space](./space.jpg)
+
+Pellentesque consectetur facilisis venenatis. Nam ullamcorper, orci nec tempor hendrerit, lorem nunc laoreet diam, vel gravida sem mi quis augue. Nunc odio velit, facilisis quis dictum non, facilisis quis felis. Vivamus elementum dapibus nibh, eget aliquet nunc luctus maximus. Sed finibus risus eget ultrices maximus. Aliquam commodo consectetur diam eget tristique. Nunc quis erat quis felis fringilla tempus. Cras tempor nibh dolor, ac lacinia lacus ultrices eu.
+
+##### Nulla nec dui vulputate, semper orci in, sagittis dolor
+
+Mauris dictum neque non fermentum consectetur. Integer vel pellentesque ex, ut tincidunt quam. Sed ac orci a dolor venenatis vulputate. Sed sollicitudin, turpis ac malesuada dapibus, magna dui semper orci, in congue justo felis quis ante. Phasellus consequat et dolor fringilla accumsan. Pellentesque ullamcorper porttitor dolor et imperdiet.
+
+
+###### ras aliquet ipsum ut enim pellentesque, id varius quam placerat
+
+Maecenas non scelerisque leo. Sed id purus fringilla, consequat magna non, faucibus neque. Cras ornare nisi a lectus ultricies convallis. Integer tristique dictum eros, et elementum ante consectetur eget. Phasellus sollicitudin est vestibulum suscipit pellentesque. Duis in eros cursus magna laoreet aliquam vel a lectus. Nulla ut nisi vitae ipsum sollicitudin vestibulum. Aenean sit amet mattis odio. Vestibulum ultrices sed ipsum nec pretium. Integer non turpis nunc. Praesent tincidunt tincidunt alique
+
+Integer mollis dolor non libero placerat, ut efficitur nisi ultricies. Etiam ac lacinia urna, eget ornare nunc. Suspendisse eget eros id turpis gravida semper. Duis ornare lorem et est pellentesque, quis rhoncus leo vestibulum. Nullam eu nulla ut elit rutrum iaculis. Cras a laoreet elit, in aliquet erat. Sed interdum varius posuere. Pellentesque eget luctus erat. Nam quis sem in ligula efficitur bibendum. --&gt;</content:encoded></item><item><title><![CDATA[Agile or Waterfall or Shall We Combine it All?]]></title><description><![CDATA[After some of the downfalls of the traditional Waterfall method and to increase the efficiency in software development projects, a new…]]></description><link>https://github.com/CerenAltay/cerendevblog/another-new-post/</link><guid isPermaLink="false">https://github.com/CerenAltay/cerendevblog/another-new-post/</guid><pubDate>Mon, 04 Dec 2017 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;After some of the downfalls of the traditional Waterfall method and to increase the efficiency in software development projects, a new approach was needed; and that new approach was Agile. Agile became so popular that most of the companies’ aim was to switch to this new methodology. I have heard a lot of project managers saying “We are trying to go Agile but we are not quite there yet.” or “We started following Agile principles but unfortunately we couldn’t integrate it all until now.” Is it too unfortunate not to follow Agile strictly by the book though?&lt;/p&gt;
+&lt;p&gt;It is awesome to show the client something that works, get approval and move to the next step. Working on a project for months and then realizing that changed requirements, extra modifications or unexpected surprises affect the initial phase of the project, might cause some considerable panic. And you need to go back to the beginning, change things and rebuild on top of it. Jenga!!&lt;/p&gt;
+&lt;p&gt;It is also great for developers and other team members to have scrum meetings and communicate effectively (scrum time poker cards are my favourite!). It lights the project path for everyone. Yes Agile is great, but do we need to turn away from Waterfall once and for all? There has been a lot of very successful projects that have been completed by Waterfall through the years. Some project managers love it because they can plan the project from the beginning, it provides the discipline for meeting the schedule by following each task, and since everything is planned in the beginning it leaves no room for surprises. We can’t blame them because if it is a large project the software development life cycle can be hard to organize and track.&lt;/p&gt;
+&lt;p&gt;
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin: 15px -30px !important max-width: 700px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 51.42857142857144%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAaV5jhYVFv8A/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAIBAwQRFDJB/9oACAEBAAEFAttx7l2Gms0t15iD/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAEREv/aAAgBAwEBPwGmIf/EABcRAQEBAQAAAAAAAAAAAAAAAAEAERL/2gAIAQIBAT8BFy6b/8QAHhAAAgAGAwAAAAAAAAAAAAAAAAEQERIjMXEzkqH/2gAIAQEABj8C4l2LaS2Tr9HqGD//xAAcEAACAgIDAAAAAAAAAAAAAAAAASExEXFBUWH/2gAIAQEAAT8hfUbCzhrkyuOsBnoCiHg2WjP/2gAMAwEAAgADAAAAEJjP/8QAFhEBAQEAAAAAAAAAAAAAAAAAAREQ/9oACAEDAQE/EJWYf//EABcRAQADAAAAAAAAAAAAAAAAAAABEWH/2gAIAQIBAT8QkWaP/8QAHRABAAMAAQUAAAAAAAAAAAAAAQARITFBYZGxwf/aAAgBAQABPxAFKHtHyYeHaUPqpaxVAhjwRAq9DeMmRxnGUqhXKXP/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Train Tracks&quot;
+        title=&quot;&quot;
+        src=&quot;/devblog/static/a6bff11fd84ef0a7e78d1abedda1165c/29d31/traintrack.jpg&quot;
+        srcset=&quot;/devblog/static/a6bff11fd84ef0a7e78d1abedda1165c/e52aa/traintrack.jpg 175w,
+/devblog/static/a6bff11fd84ef0a7e78d1abedda1165c/70ebb/traintrack.jpg 350w,
+/devblog/static/a6bff11fd84ef0a7e78d1abedda1165c/29d31/traintrack.jpg 700w,
+/devblog/static/a6bff11fd84ef0a7e78d1abedda1165c/4b190/traintrack.jpg 800w&quot;
+        sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  &lt;/p&gt;
+&lt;p&gt;Many companies use Waterfall for their infrastructure projects and they build their software applications using Agile. Likewise, executives choose to make their high-level plans using the traditional approach but their development team prefer Agile methodology. Workfront Group supports this idea stating, “The bottom line is that, in today’s world, the rigidity of a Waterfall project is still needed, but also there is a need of responsiveness of an Agile approach. It’s important to remember that communication is key when mixing the two in the same environment”.&lt;/p&gt;
+&lt;p&gt;Actually, Agile and Waterfall can exist in the same place and maybe in some cases they must. They both have great benefits for a variety of projects and when I hear “Unfortunately we couldn’t fully switch to Agile yet!” I don’t think it is unfortunate at all.&lt;/p&gt;</content:encoded></item></channel></rss>
